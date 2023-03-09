@@ -3,8 +3,7 @@
     color: #E5E7EB;
     font-size: 18px;
     padding: 25px;
-    margin-left: 100px;
-    margin-right: 100px;
+   
 }
 
 nav{
@@ -25,6 +24,8 @@ h1{
     padding: 50px; 
     display: flex;
     justify-content: center;
+    margin-left: 100px;
+    margin-right: 100px;
 
 }
 .item {
